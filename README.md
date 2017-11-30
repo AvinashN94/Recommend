@@ -1,1 +1,1 @@
-# Recommend
+# Requires a standalone Spark Application.
